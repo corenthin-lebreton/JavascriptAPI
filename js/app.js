@@ -10,8 +10,6 @@ bouton.addEventListener("click", () => {
     let ProductEan = () => {
         axios.get(url).then(datas => {
 
-            console.log(datas)
-
             if (datas.data.status === 1) alert("produit trouvé");
 
             else {
