@@ -1,0 +1,27 @@
+
+ h1{
+    font-family: Cambria;
+    text-align: center;
+    margin-top: 20px;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin-left: 800px;
+}
+
+
+button#suppr{
+   /*margin-left: 180px;*/
+   object-fit: contain;
+
+}
+
+ul#ul-css{
+    font-family: serif;
+    text-decoration: solid;
+}
+
+div#bloc{
+    text-align: center;
+    margin-left: 42%;
+}
